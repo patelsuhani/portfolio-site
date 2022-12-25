@@ -1,12 +1,16 @@
 ---
 title: Suhani Patel
-role: Bioengineering, Computer Science Engineering student at UPenn
-bio: Bioengineering and Computer Science Engineering student at Harvard
-  University, passionate about innovation in biotechnology and biology.
+role: Bioengineering and Computer Science Engineering student at UPenn
+bio: Studying Bioengineering and Computer Science Engineering, passionate about
+  innovation in biotechnology.
 interests:
-  - Bioengineering
-  - Biostatistics
-  - Tissue Engineering
+  - Cell
+  - tissue
+  - and organ generation
+  - Computational biology
+  - Biomechanics
+  - Genomics
+  - Cardiovascular medicine
 social:
   - icon: envelope
     icon_pack: fas
@@ -19,6 +23,8 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
+    display:
+      header: true
 organizations:
   - name: University of Pennsylvania
     url: https://www.upenn.edu/

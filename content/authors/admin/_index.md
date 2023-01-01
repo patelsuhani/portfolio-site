@@ -1,6 +1,7 @@
 ---
 title: Suhani Patel
 role: Bioengineering and Computer Science Engineering student at UPenn
+avatar_filename: 20210905_114219.jpg
 bio: Studying Bioengineering and Computer Science Engineering, passionate about
   innovation in biotechnology.
 interests:

@@ -16,16 +16,28 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Arduino
+          description: Elctric circuit programming language 
+          icon: solid infinity
           icon_pack: fas
+        - name: OneShape
+          description: 3D modelling web application
+          icon: duotone cube
+          icon_pack: fas
+        - name: SolidWorks
+          description: 3D modelling software
+          icon: cubes
+          icon_pack: fas
+        - name: Lab skills
+          description: Pipetting, Cell culturing, Hydrogel synthesis, Spectroscopy
+          icon: flask-vial
+          icon_pack: fas 
+        - name: LaTeX
+          description: Literature editting
+          icon: memo circle check
+          icon_pack:  fas
         - name: Photography
-          description: 10%
+          description: nature and food photograpy
           icon: camera-retro
           icon_pack: fas
   - block: experience

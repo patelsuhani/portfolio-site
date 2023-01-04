@@ -59,11 +59,12 @@ sections:
           location: University of Pennsylvania
           date_start: 'September 2022'
           date_end: ''
-          description: 'Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
-              Responsibilities include:
+          description: |
+            Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
+              Responsibilities: include:
               * Designing
               * Modelling
-              * Building'
+              * Building
         - title: Moonshot Factory Committee Member
           company: Wharton Undergraduate Healthcare Club (WUHC)
           company_url: 'https://www.wuhcpenn.org/'
@@ -71,7 +72,8 @@ sections:
           location: University of Pennsylvania
           date_start: 'September 2022'
           date_end: ''
-          description: "Providing assistance to Penn's students in the field of biology, medicine, bioengineering, and healthcare management by organizing workshops, pitch competitions, speaker events, and more."
+          description: |
+            Providing assistance to Penn's students in the field of biology, medicine, bioengineering, and healthcare management by organizing workshops, pitch competitions, speaker events, and more.
         - title: Outreach Committee Member
           company: Kesem
           company_url: 'https://pennclubs.com/club/camp-kesem'
@@ -79,31 +81,33 @@ sections:
           location: University of Pennsylvania
           date_start: 'September 2022'
           date_end: ''
-          description: "Raising funds to organize a summer camp for children impacted by their parent's cancer.
-          Fund Raising activities:
-            * Held a bake sale.
-            * Participated in Messy Olympics.
-            * Sold toast at the football game.
-          Other responsibilities:
-            * Writing cards to children.
-            * Reaching out to schools in the West Philly area."
-        - title: Member 
+          description: |
+            Raising funds to organize a summer camp for children impacted by their parent's cancer.
+              Fund Raising activities:
+                * Held a bake sale.
+                * Participated in Messy Olympics.
+                * Sold toast at the football game.
+              Other responsibilities:
+                * Writing cards to children.
+                * Reaching out to schools in the West Philly area.
+        - title: Member
           company: Wharton Undergraduate Entrepreneurship Club (WUEC)
           company_url: 'https://groups.wharton.upenn.edu/wuec/commitees/'
           location: University of Pennsylvania
           date_start: 'September 2022'
           date_end: ''
           description: Attending general meetings, speaker events, and  workshops. 
-        
+      
         - title: Volunteer
           company: Netter Center for Community Partnerships
           company_url: 'http://www.nettercenter.upenn.edu/'
           location: University of Pennsylvania
           date_start: 'October 2022'
           date_end: ''
-          description: "Volunteer at the Lea School's in West Philadelphia.
-          Responsibilities:
-            Assisted in planning and set-up of a safe Halloween Trick-or-Treat event. ALso managed a table for donating candies to underprivileged children."
+          description: |
+          Volunteer at the Lea School's in West Philadelphia.
+            Responsibilities:
+              Assisted in planning and set-up of a safe Halloween Trick-or-Treat event. ALso managed a table for donating candies to underprivileged children.
     design:
       columns: '2'
   - block: accomplishments

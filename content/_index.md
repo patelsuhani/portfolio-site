@@ -17,10 +17,10 @@ sections:
       title: Skills
       items:
         - name: Arduino
-          description: Elctric circuit programming language 
+          description: Electric circuit programming language 
           icon: infinity
           icon_pack: fas
-        - name: OneShape
+        - name: OnShape
           description: 3D modelling web application
           icon: cube
           icon_pack: fas
@@ -37,42 +37,78 @@ sections:
           icon: bookmark
           icon_pack:  fas
         - name: Photography
-          description: nature and food photograpy
+          description: Nature and Food photograpy
           icon: camera-retro
           icon_pack: fas
-  - block: experience
+  - block: Extracurricular Involvement
     content:
-      title: Experience
+      title: Extracurricular Involvement
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: Jan 2022
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Design Committee Member
+          company: Penn Assistive Devices and Prosthetic Technologies (ADAPT)
+          company_url: 'https://pennclubs.com/club/adapt'
+          company_logo: 
+          location: University of Pennsylvania
+          date_start: 'September 2022'
           date_end: ''
-          description: |2-
+          description: Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
               Responsibilities include:
 
-              * Analysing
+              * Designing
               * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Building
+
+        - title: Moonshot Factory Committee Member
+          company: Wharton Undergraduate Healthcare Club (WUHC)
+          company_url: 'https://www.wuhcpenn.org/'
+          company_logo: 
+          location: University of Pennsylvania
+          date_start: 'September 2022'
+          date_end: ''
+          description: Providing assistance to Penn's students in the field of biology, medicine, bioengineering, and healthcare management by organizing workshops, pitch competitions, speaker events, and more.
+        
+        - title: Outreach Committee Member
+        company: Kesem
+        company_url: 'https://pennclubs.com/club/camp-kesem'
+        parent company: 'https://www.kesem.org/'
+        location: University of Pennsylvania
+        date_start: 'September 2022'
+        date_end: ''
+        description: Raising funds to organize a summer camp for children impacted by their parent's cancer.
+         Fund Raising activities:
+          * Held a bake sale.
+          * Participated in Messy Olympics.
+          * Sold toast at the football game.
+         Other responsibilities:
+         * Writing cards to children.
+         * Reaching out to schools in the West Philly area.
+
+        - title: Member 
+        company: Wharton Undergraduate Entrepreneurship Club (WUEC)
+        company_url: 'https://groups.wharton.upenn.edu/wuec/commitees/'
+        location: University of Pennsylvania
+        date_start: 'September 2022'
+        date_end: ''
+        description: Attending general meetings, speaker events, and  workshops. 
+        
+        - title: Volunteer
+        company: Netter Center for Community Partnerships
+        company_url: 'http://www.nettercenter.upenn.edu/'
+        location: University of Pennsylvania
+        date_start: 'October 2022'
+        date_end: ''
+        description: Volunteer at the Lea School's in West Philadelphia.
+        Responsibilities:
+        Assisted in planning and set-up of a safe Halloween Trick-or-Treat event. ALso managed a table for donating candies to underprivileged children.
+       
     design:
       columns: '2'
   - block: accomplishments

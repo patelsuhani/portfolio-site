@@ -99,11 +99,11 @@ sections:
           company: Netter Center for Community Partnerships
           company_url: 'http://www.nettercenter.upenn.edu/'
           location: University of Pennsylvania
-         date_start: 'October 2022'
+          date_start: 'October 2022'
           date_end: ''
           description: "Volunteer at the Lea School's in West Philadelphia.
-        Responsibilities:
-        Assisted in planning and set-up of a safe Halloween Trick-or-Treat event. ALso managed a table for donating candies to underprivileged children."
+          Responsibilities:
+            Assisted in planning and set-up of a safe Halloween Trick-or-Treat event. ALso managed a table for donating candies to underprivileged children."
     design:
       columns: '2'
   - block: accomplishments

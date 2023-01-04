@@ -55,7 +55,7 @@ sections:
         - title: Design Committee Member
           company: Penn Assistive Devices and Prosthetic Technologies (ADAPT)
           company_url: 'https://pennclubs.com/club/adapt'
-          company_logo: 
+          company_logo: 'https://s3.amazonaws.com/penn.clubs/clubs_small/9512a3abb72248d5998ddd2596ddf121.png'
           location: University of Pennsylvania
           date_start: '2022-09-01'
           date_end: ''

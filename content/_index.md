@@ -59,12 +59,11 @@ sections:
           location: University of Pennsylvania
           date_start: 'September 2022'
           date_end: ''
-          description: Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
+          description: 'Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
               Responsibilities include:
-
               * Designing
               * Modelling
-              * Building
+              * Building'
 
         - title: Moonshot Factory Committee Member
           company: Wharton Undergraduate Healthcare Club (WUHC)

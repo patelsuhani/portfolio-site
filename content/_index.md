@@ -34,7 +34,7 @@ sections:
           icon_pack: fas 
         - name: LaTeX
           description: Literature editting
-          icon: memo
+          icon: bookmark
           icon_pack:  fas
         - name: Photography
           description: nature and food photograpy

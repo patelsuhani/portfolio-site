@@ -40,7 +40,7 @@ sections:
           description: Nature and Food photograpy
           icon: camera-retro
           icon_pack: fas
-  - block: Extracurricular Involvement
+  - block: experience
     content:
       title: Extracurricular Involvement
       # Date format for experience

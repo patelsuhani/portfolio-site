@@ -18,11 +18,11 @@ sections:
       items:
         - name: Arduino
           description: Elctric circuit programming language 
-          icon: solid infinity
+          icon: infinity
           icon_pack: fas
         - name: OneShape
           description: 3D modelling web application
-          icon: duotone cube
+          icon: cube
           icon_pack: fas
         - name: SolidWorks
           description: 3D modelling software
@@ -34,7 +34,7 @@ sections:
           icon_pack: fas 
         - name: LaTeX
           description: Literature editting
-          icon: memo circle check
+          icon: memo
           icon_pack:  fas
         - name: Photography
           description: nature and food photograpy

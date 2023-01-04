@@ -57,7 +57,7 @@ sections:
           company_url: 'https://pennclubs.com/club/adapt'
           company_logo: 
           location: University of Pennsylvania
-          date_start: 'September 2022'
+          date_start: '2022-09-01'
           date_end: ''
           description: |
             Attending workshops to learn required softwares, tools, and acquiring skills for designing biomedical devices and prosthetics to meet the needs of patients.
@@ -70,7 +70,7 @@ sections:
           company_url: 'https://www.wuhcpenn.org/'
           company_logo: 
           location: University of Pennsylvania
-          date_start: 'September 2022'
+          date_start: '2022-09-01'
           date_end: ''
           description: |
             Providing assistance to Penn's students in the field of biology, medicine, bioengineering, and healthcare management by organizing workshops, pitch competitions, speaker events, and more.
@@ -79,7 +79,7 @@ sections:
           company_url: 'https://pennclubs.com/club/camp-kesem'
           parent company: 'https://www.kesem.org/'
           location: University of Pennsylvania
-          date_start: 'September 2022'
+          date_start: '2022-09-01'
           date_end: ''
           description: |
             Raising funds to organize a summer camp for children impacted by their parent's cancer.
@@ -94,7 +94,7 @@ sections:
           company: Wharton Undergraduate Entrepreneurship Club (WUEC)
           company_url: 'https://groups.wharton.upenn.edu/wuec/commitees/'
           location: University of Pennsylvania
-          date_start: 'September 2022'
+          date_start: '2022-09-01'
           date_end: ''
           description: Attending general meetings, speaker events, and  workshops. 
       
@@ -102,7 +102,7 @@ sections:
           company: Netter Center for Community Partnerships
           company_url: 'http://www.nettercenter.upenn.edu/'
           location: University of Pennsylvania
-          date_start: 'October 2022'
+          date_start: '2022-10-01'
           date_end: ''
           description: |
             Volunteer at the Lea School's in West Philadelphia.

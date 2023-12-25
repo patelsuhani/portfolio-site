@@ -1,9 +1,9 @@
 ---
 title: Suhani Patel
-role: Computer & Information Science and Bioengineering student at UPenn
+role: Computer & Information Science and Bioengineering Student
 avatar_filename: 20210905_114219.jpg
-bio: Studying Computer Science Engineering and Bioengineering, passionate about
-  innovation in bioinformatiocs and biomedical devices.
+# bio: Studying Computer Science Engineering and Bioengineering, passionate about
+#   innovation in bioinformatiocs and biomedical devices.
 interests:
   - Open-source Development
   - Embedded Systems Programming
@@ -24,7 +24,7 @@ social:
       header: true
 organizations:
   - name: University of Pennsylvania
-    url: https://www.upenn.edu/
+    url: https://www.seas.upenn.edu/
 education:
   courses:
     - course: BSE in Computer & Information Science Engineering and Bioengineering
@@ -36,6 +36,11 @@ status:
 last_name: Wu
 highlight_name: true
 first_name: Suhani
-email: [patelsuhani07@gmail.com](mailto:patelsuhani07@gmail.com) | [psuhani7@seas.upenn.edu](mailto:psuhani7@seas.upenn.edu)
+email: '[patelsuhani07@gmail.com](mailto:patelsuhani07@gmail.com) |[psuhani7@seas.upenn.edu](mailto:psuhani7@seas.upenn.edu)'
+#at_symbol: "@"
 ---
-I am a freshman double majoring in Computer and Information Science Engineering and Bioengineering at the University of Pennsylvania with a passion for developing Open-source software, solving problems in bioinformatics, and creating medical devices. I have successfully completed classes including Programming Languages and Techniques (Java and OCaml), Mathematical Foundations of Computer Science, Linear Algebra, Multivariable Calculus, Biomechanics, and Biology and have a strong foundation in the fields of my interest. My interdisciplinary background allows me to approach problems from multiple angles and makes me well-suited for tackling complex issues at the intersection of CS and biomedical technology. I am excited to continue exploring my interests and to make a meaningful impact in the world through my studies.
+<b>Passion and expertise</b>: Solving bioinformatics challenges, creating innovative medical devices, and developing open-source software.
+
+<b>Current focus</b>: Attending the <a href="https://www.upenn.edu/">University of Pennsylvania</a> with the aim of building an interdisciplinary engineering mindset, focusing on the confluence of Computer Science and Biomedical technology.
+
+<b>Long-term aspiration</b>: Leverage my unique blend of skills to unravel and tackle complex challenges at this intriguing intersection of computer software and its biomedical applications to drive meaningful change.

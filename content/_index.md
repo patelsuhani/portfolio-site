@@ -257,11 +257,11 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Let's Connect!    
+        <p>Let's Connect!</p>    
         
-        Whether it is about collaboration opportunities, inquiries, or just a friendly chat, feel free to reach out via any of the contact options below. Your message means a lot, and I will make sure to get back to you ASAP.  
+        <p>Whether it is about collaboration opportunities, inquiries, or just a friendly chat, feel free to reach out via any of the contact options below. Your message means a lot, and I will make sure to get back to you ASAP.</p>  
         
-        I am excited to hear from you!    
+        <p>I am excited to hear from you!</p>    
       # Contact (add or remove contact options as necessary)
       email: patelsuhani07@gmail.com
       phone: +1-215-960-4462

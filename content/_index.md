@@ -257,11 +257,15 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Let's Connect!
+
+I am excited to hear from you! Whether it is about collaboration opportunities, inquiries, or just a friendly chat, feel free to reach out via any of the contact options below. Your message means a lot, and I will make sure to get back to you ASAP.
+
+Looking forward to connecting!
       # Contact (add or remove contact options as necessary)
       email: patelsuhani07@gmail.com
       phone: +1-215-960-4462
-      appointment_url: 'https://calendly.com'
+      appointment_url: 'https://calendly.com/patelsuhani07'
       # address:
       #   street: 450 Serra Mall
       #   city: Stanford
@@ -270,22 +274,22 @@ sections:
       #   country: United States
       #   country_code: US
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      #office_hours:
+      #  - 'Monday 10:00 to 13:00'
+      #  - 'Wednesday 09:00 to 10:00'
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
+          link: 'https://twitter.com/patel_suha92419'
+        - icon: instagram
           icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
+          name: Follow me on Instagram
+          link: 'https://www.instagram.com/_suhani.patel_/'
         - icon: video
           icon_pack: fas
           name: Zoom Me
-          link: 'https://zoom.com'
+          link: 'https://us04web.zoom.us/j/4197634798?pwd=O6mUzY7RM6u1wNn6bJIShRmGfbJvfB.1'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

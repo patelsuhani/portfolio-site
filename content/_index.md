@@ -255,7 +255,6 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
       text:
         'Let's Connect!
 

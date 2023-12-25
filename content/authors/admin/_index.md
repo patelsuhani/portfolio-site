@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: https://patelsuhani.github.io/portfolio-site#contact
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/suhani-patel-07
@@ -31,12 +31,12 @@ education:
       institution: University of Pennsylvania
       year: 2026
 superuser: true
-status:
-  icon: ☕️
-last_name: Wu
+# status:
+#   icon: ☕️
+last_name: Patel
 highlight_name: true
 first_name: Suhani
-email: '[patelsuhani07@gmail.com](mailto:patelsuhani07@gmail.com) |[psuhani7@seas.upenn.edu](mailto:psuhani7@seas.upenn.edu)'
+email: '[patelsuhani07@gmail.com](mailto:patelsuhani07@gmail.com) | [psuhani7@seas.upenn.edu](mailto:psuhani7@seas.upenn.edu)'
 #at_symbol: "@"
 ---
 <b>Passion and expertise</b>: Solving bioinformatics challenges, creating innovative medical devices, and developing open-source software.

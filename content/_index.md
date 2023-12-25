@@ -256,7 +256,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
+      text:
         'Let's Connect!
 
 I am excited to hear from you! Whether it is about collaboration opportunities, inquiries, or just a friendly chat, feel free to reach out via any of the contact options below. Your message means a lot, and I will make sure to get back to you ASAP.
